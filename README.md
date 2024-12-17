@@ -1,4 +1,4 @@
-# ResNet50 CIFAR-100 Classification 
+# ResNet50 CIFAR-100 Classification Using Deep Learning
 
 This repository implements a deep learning model for classifying the CIFAR-100 dataset using a fine-tuned ResNet50 model in PyTorch. The project focuses on enhancing model performance through advanced data augmentation, early stopping, and learning rate scheduling.
 
